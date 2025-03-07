@@ -12,5 +12,5 @@
 | git branch -v | List last commit to each branch | 
 | git merge [branch name] | to merge both branches, copy changes from test to main |
 | git branch -d [name of the branch] | to delete the branch | 
-| 
+
 
